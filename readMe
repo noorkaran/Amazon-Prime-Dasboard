@@ -1,0 +1,22 @@
+📊 Amazon Prime Dashboard
+
+Overview
+The Amazon Prime Dashboard is a data-driven visualization project designed to provide insights into Amazon Prime’s content library, user engagement, and subscription trends. It leverages interactive charts, KPIs, and filters to help users explore Prime Video’s offerings and performance metrics in a structured, intuitive way.
+
+1. Features
+- **Content Analytics**: Breakdown of movies, TV shows, and genres available on Prime Video.  
+- **User Engagement Metrics**: Track viewing patterns, ratings, and popular titles.  
+- **Subscription Insights**: Visualize subscriber growth, retention, and churn rates.  
+- **Interactive Filters**: Drill down by region, genre, release year, or popularity.  
+- **Dynamic KPIs**: Highlight key performance indicators such as top-rated shows, trending movies, and watch-time statistics.  
+
+2. Tech Stack
+- **Data Processing**: Python (Pandas, NumPy)  
+- **Visualization**: Power BI / Tableau / Matplotlib (depending on your implementation)  
+- **Data Source**: Public datasets or simulated Prime Video data  
+- **Deployment**: GitHub for version control and documentation  
+
+3. Use Cases
+- 📈 **Business Intelligence**: Helps stakeholders understand Prime Video’s market position.  
+- 🎬 **Content Strategy**: Identify genres and titles driving engagement.  
+- 👥 **Customer Insights**: Analyze subscriber behavior and preferences.  
